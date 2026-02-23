@@ -67,8 +67,8 @@ Le diagramme de classe représente les entités du projet ainsi que leurs relati
 
 [Diagramme de classe]
 
-(<img width="867" height="667" alt="Diagramme de Classe " src="https://github.com/user-attachments/assets/5f157b65-f55e-4119-b348-ee8f18ca6ba6" />
-)
+<img width="867" height="667" alt="Diagramme de Classe " src="https://github.com/user-attachments/assets/5f157b65-f55e-4119-b348-ee8f18ca6ba6" />
+
 
 
 ---
